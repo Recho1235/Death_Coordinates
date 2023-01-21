@@ -1,0 +1,6 @@
+name: Death_Coordinates
+version: '1.0-SNAPSHOT'
+main: death_coordinates.death_coordinates.Death_Coordinates
+api-version: 1.19
+authors: [ Recho1235 ]
+description: Outputs death coordinates to player after they die
